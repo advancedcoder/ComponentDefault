@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\downloads\web\semester 3.1\component oriented programing\lab_6\component\client\source.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  e:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+  Client.vcxproj -> E:\Downloads\web\Semester 3.1\Component oriented programing\lab_6\Component\Debug\Client.exe

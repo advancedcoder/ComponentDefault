@@ -1,0 +1,9 @@
+﻿  GUIDs.cpp
+  ClassFactoryCstm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Component.def : warning LNK4222: exported symbol 'DllGetClassObject' should not be assigned an ordinal
+Component.def : warning LNK4222: exported symbol 'DllCanUnloadNow' should not be assigned an ordinal
+Component.def : warning LNK4222: exported symbol 'DllRegisterServer' should not be assigned an ordinal
+Component.def : warning LNK4222: exported symbol 'DllUnregisterServer' should not be assigned an ordinal
+     Creating library E:\Downloads\web\Semester 3.1\Component oriented programing\lab_6\Component\Debug\Component.lib and object E:\Downloads\web\Semester 3.1\Component oriented programing\lab_6\Component\Debug\Component.exp
+Component.exp : warning LNK4070: /OUT:Componet.dll directive in .EXP differs from output filename 'E:\Downloads\web\Semester 3.1\Component oriented programing\lab_6\Component\Debug\Component.dll'; ignoring directive
+  Component.vcxproj -> E:\Downloads\web\Semester 3.1\Component oriented programing\lab_6\Component\Debug\Component.dll
